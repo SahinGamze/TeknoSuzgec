@@ -1,0 +1,7 @@
+@RELATION konu
+@ATTRIBUTE text  String
+@ATTRIBUTE konuasdasd   {fiyat,kargo,urun,ssh,personel,magaza,reklam,websitesi,yok}
+@Data
+
+'?aylardır çeşitli bilişim dergilerinde ek bir dergicikle reklam yapan kuruluş.', ?
+'bedava çok ucuz', ?
